@@ -21,4 +21,4 @@ The Deploy-Azure-WebApp project aimed to deploy a simple web application using A
 
 ## Steps
 
-- Ref 1: 
+- Step 1: 
