@@ -68,3 +68,4 @@ An App Service Plan defines the compute resources for an app.
   ![image](https://github.com/user-attachments/assets/0f3eaeee-e9f1-49a4-bfd0-c543143eb99f)
   4.6 Click on Browse in app services intance we created and now we should see our sample page running
   ![image](https://github.com/user-attachments/assets/1c7e3948-d3d5-4a0f-b7b0-e52f6879cd86)
+  Now that our Sample page is running we have successfully created a web application using Azure App Services.
