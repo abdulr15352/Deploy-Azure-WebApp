@@ -22,8 +22,8 @@ The Deploy-Azure-WebApp project aimed to deploy a simple web application using A
 ## Steps
 
 - Step 1: Create Resource group
+ A resource group is a container that holds related resources for an Azure solution.
 
-  A resource group is a container that holds related resources for an Azure solution.
  1.1 We can go ahead and create a resource group. 
 ![image](https://github.com/user-attachments/assets/dcb389e7-6319-45ce-bbbb-155ee8b78782)
 1.2 After creating the resource group we can see it under Resources in home.
